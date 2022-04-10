@@ -19,3 +19,6 @@ Nach Ausführung des Scriptes nochmal "--" und "xyz" eintippen:
 
 ![image](https://user-images.githubusercontent.com/57206134/162622697-a5319539-d05e-4802-a83b-8d52cf30a406.png)
 
+## Credits
+
+Danke an Hydra für die Idee
