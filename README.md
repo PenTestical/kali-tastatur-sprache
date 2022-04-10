@@ -9,7 +9,7 @@ git clone https://github.com/pentestical/kali-tastatur-sprache
 sudo bash magic.sh
 ``` 
 
-## verifizieren, dass die Änderungen übernommen wurden
+## Verifizieren, dass die Änderungen übernommen wurden
 
 Vorher "--" eintippen:
 
