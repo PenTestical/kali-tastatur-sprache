@@ -1,6 +1,6 @@
-# Kali Linux Tastatursprache permanent zu Deutsch umstellen
+# Kali Linux Tastaturlayout permanent zu Deutsch umstellen
 
-Das Bash Script als root ausführen, um die Tastatursprache permanent auf Deutsch umzustellen. 
+Das Bash Script als root ausführen, um die Tastaturlayout permanent auf Deutsch umzustellen. Im Terminal wird dann statt "x" z.B. nicht mehr "y" erkannt und auch Sonderzeichen kannst du wieder mit dem deutschen Tastaturlayout verwenden.
 
 ```
 git clone https://github.com/pentestical/kali-tastatur-sprache
