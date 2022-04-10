@@ -3,6 +3,7 @@
 Das Bash Script als root ausführen, um die Tastatursprache permanent auf Deutsch umzustellen. 
 
 ```
+git clone https://github.com/pentestical/kali-tastatur-sprache
 sudo bash magic.sh
 ``` 
 
