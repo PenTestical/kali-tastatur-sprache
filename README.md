@@ -21,4 +21,4 @@ Nach Ausführung des Scriptes nochmal "--" und "xyz" eintippen:
 
 ## Credits
 
-Danke an Hydra für die Idee
++ Danke an [Hydra](https://discord.gg/MTsr5h4ac8) für die Idee
