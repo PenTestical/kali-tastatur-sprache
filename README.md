@@ -3,10 +3,7 @@
 Das Bash Script als root ausführen, um die Tastaturlayout permanent auf Deutsch umzustellen. Im Terminal wird dann statt "x" z.B. nicht mehr "y" erkannt und auch Sonderzeichen kannst du wieder mit dem deutschen Tastaturlayout verwenden.
 
 ```
-git clone https://github.com/pentestical/kali-tastatur-sprache
-``` 
-``` 
-sudo bash magic.sh
+git clone https://github.com/pentestical/kali-tastatur-sprache; cd kali-tastatur-sprache; sudo bash magic.sh
 ``` 
 
 ## Verifizieren, dass die Änderungen übernommen wurden
